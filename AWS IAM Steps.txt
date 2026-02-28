@@ -1,0 +1,10 @@
+Project Steps:
+
+•	Created IAM users and assigned individual access credentials.
+•	Configured IAM groups and attached appropriate policies.
+•	Implemented custom IAM policies with least-privilege access.
+•	Assigned roles to EC2 instances for secures access.
+•	Managed Password policies and access key rotation.
+•	Restricted access using AWS managed and inline policies.
+•	Monitored IAM activities using Cloud Trail.
+•	Documented access control and security best practices.

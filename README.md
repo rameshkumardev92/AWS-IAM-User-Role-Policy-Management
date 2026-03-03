@@ -8,7 +8,7 @@ Secure IAM implement with users, roles and policy management.
 
 ## Project Overview
 - Implement secure access control using IAM
-- Created users, Groups, Rolesm and Polices following least privilage priciple.
+- Created users, Groups, Roles and Polices following least privilage priciple.
 
 ## Key Features
 - IAM user and group creation
